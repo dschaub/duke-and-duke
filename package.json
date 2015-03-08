@@ -2,6 +2,13 @@
   "name": "quote-maestro",
   "version": "1.0.0",
   "description": "Maestro... for quotes",
+  "main": "server.js",
+  "scripts": {
+	"start": "node server.js"
+  },
+  "engines": {
+	"node": "0.10.x"
+  },
   "dependencies": {
     "express": "^4.11.2",
     "body-parser": "^1.11.0",
