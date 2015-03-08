@@ -1,0 +1,11 @@
+{
+  "name": "quote-maestro",
+  "version": "1.0.0",
+  "description": "Maestro... for quotes",
+  "dependencies": {
+    "express": "^4.11.2",
+    "body-parser": "^1.11.0",
+    "csv-parse": "0.0.6",
+    "request": "^2.53.0"
+  }
+}
